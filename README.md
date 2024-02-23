@@ -1,2 +1,6 @@
-# HackerRank_10_Days_of_Javascript
-Challenge Javascript
+# HackRank JavaScript Challenge
+
+- [x] Day 00
+- [ ] Day 01
+- [ ] Day 02
+- [ ] Day 03
